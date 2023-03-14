@@ -1,4 +1,4 @@
-## Hey 👋, I'm GeorgeAnghel!  
+## Hey 👋, I'm George Anghel!  
   
 
 <a href="https://github.com/GeorgeAnghel114" target="_blank">
@@ -9,7 +9,7 @@
 </a>  
   
 
-I’m a junior full-stack developer with one year experience. I have a strong foundation developing and maintaining web applications. On the back-end I use Java with Spring and on the front-end React. I am a strong problem-solver, and I'm eager to continue learning and growing my skills in this field.  
+I’m a junior full-stack developer with one year experience. I have a strong foundation developing and maintaining web applications. On the back-end I use Java with Spring and on the front-end React. I am a strong problem-solver and I'm eager to continue learning and growing my skills in this field.  
   
 
 <br/>  
