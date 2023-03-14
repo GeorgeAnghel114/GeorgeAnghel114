@@ -29,6 +29,9 @@ I’m a junior full-stack developer with one year experience. I have a strong fo
 
 </td><td valign="top" width="50%">
 
+<div align="center">
+<img src="https://media.tenor.com/Df5NDKON3WYAAAAM/bugs-bunny-looney-tunes.gif" align="center" height="" width="" />
+</div>  
 
 
 </td></tr></table>  
