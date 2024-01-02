@@ -9,7 +9,7 @@
 </a>  
   
 
-I’m a junior full-stack developer with one year experience. I have a strong foundation developing and maintaining web applications. On the back-end I use Java with Spring and on the front-end React. I am a strong problem-solver and I'm eager to continue learning and growing my skills in this field.  
+I am a dedicated software developer specialized in Java and the Spring framework, with a strong emphasis on crafting reliable and efficent backend solutions and proficient in Oracle and PostgreSQL. On the frontend, I leverage Angular and TypeScript to create dynamic and responsive user interfaces. With a passion for clean code and a commitment to delivering high-quality software, I am always eager to contribute to innovative projects and expand my skill set.  
   
 
 <br/>  
@@ -21,7 +21,7 @@ I’m a junior full-stack developer with one year experience. I have a strong fo
 - 🔭 I’m currently working on [MoneyTracker](https://github.com/GeorgeAnghel114/moneyTracker)  
   
 
-- 🌱 I’m developing my apps using Spring & React.  
+- 🌱 I’m developing my apps using Spring & Angular.  
   
 
 - ✉️ You can also find me here: georgeanghel114@gmail.com  
@@ -43,6 +43,7 @@ I’m a junior full-stack developer with one year experience. I have a strong fo
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://www.oracle.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -54,7 +55,7 @@ I’m a junior full-stack developer with one year experience. I have a strong fo
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>  
+</div> 
 
 <br/>  
 
