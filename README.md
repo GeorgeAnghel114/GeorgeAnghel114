@@ -7,18 +7,15 @@
 <a href="https://linkedin.com/in/georgeanghel114" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
-I am a dedicated software developer specialized in Java and the Spring framework, with a strong emphasis on crafting reliable and efficent backend solutions and proficient in Oracle and PostgreSQL. On the frontend, I leverage Angular and TypeScript to create dynamic and responsive user interfaces. With a passion for clean code and a commitment to delivering high-quality software, I am always eager to contribute to innovative projects and expand my skill set.  
+I am a software developer with nearly 3 years of experience in web development. I have a strong passion for backend development and DevOps. My primary technology stack includes Java with Spring Boot for backend services, PostgreSQL and Oracle for databases, and GitHub/GitLab Actions, Jenkins, and Docker for infrastructure and CI/CD. Additionally, I work with TypeScript and Angular/React for frontend development.
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [MoneyTracker](https://github.com/GeorgeAnghel114/moneyTracker)  
+- 🔭 I’m currently designing an income & expensses track app.
   
 
 - 🌱 I’m developing my apps using Spring & Angular.  
